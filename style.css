@@ -1,0 +1,30 @@
+/* style.css */
+.card {
+    background-color: #333; /* Cinza escuro */
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    width: 250px;
+  }
+  
+  .card img {
+    width: 100%;
+  }
+  
+  .card-content {
+    padding: 15px;
+    color: #fff; /* Branco */
+  }
+  
+  .card-content h3 {
+    color: #9933ff; /* Roxo */
+  }
+  
+  button {
+    background-color: #9933ff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
