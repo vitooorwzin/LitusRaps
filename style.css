@@ -1,7 +1,7 @@
 /* style.css */
 nav {
-  width: 250px;
-  height: 150vh;
+  width: 200px;
+  height: 100vh;
   background-color: #503253;
   padding: 20px;
 }
@@ -33,4 +33,16 @@ nav a:hover {
 }
 body {
   background-color: rgb(31, 28, 28);
+}
+.video-card {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+.video-info h3 {
+  color: #333;
+  font-size: 18px;
 }
