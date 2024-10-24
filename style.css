@@ -16,7 +16,7 @@ nav li {
 }
 
 nav a {
-  color: #ffffff;
+  color: #fff3f3;
   text-decoration: none;
   display: block;
   padding: 10px;
@@ -32,17 +32,5 @@ nav a:hover {
   padding: 20px;
 }
 body {
-  background-color: rgb(31, 28, 28);
-}
-.video-card {
-  background-color: #f0f0f0;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  padding: 20px;
-}
-
-.video-info h3 {
-  color: #131010;
-  font-size: 18px;
+  background-color: rgb(19, 18, 18);
 }
