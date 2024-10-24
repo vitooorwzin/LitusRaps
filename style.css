@@ -16,7 +16,7 @@ nav li {
 }
 
 nav a {
-  color: #757575;
+  color: #c7c7c7;
   text-decoration: none;
   display: block;
   padding: 10px;
@@ -24,7 +24,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #555;
+  background-color: #7c7c7c;
 }
 
 .content {
