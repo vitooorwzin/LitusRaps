@@ -1,7 +1,6 @@
 /* style.css */
-
-head {
-  color: aliceblue;
+.header {
+  background-color: #fff3f3;
 }
 
 nav {
