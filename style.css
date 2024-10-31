@@ -1,7 +1,7 @@
 /* style.css */
 
 head {
-  color: #fff3f3;
+  -webkit-text-fill-color: #fff3f3;
 }
 nav {
   width: 200px;
