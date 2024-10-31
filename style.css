@@ -1,8 +1,9 @@
 /* style.css */
 
 head {
-  -webkit-text-fill-color: #fff3f3;
+  color: aliceblue;
 }
+
 nav {
   width: 200px;
   height: 100vh;
